@@ -1523,3 +1523,27 @@ body.offcanvas {
   border-color: transparent;
 }
 
+
+#testimonial .container-fluid{
+	padding: 100px;
+	background-color: #C0C0BA
+}
+
+/* Carousel */
+
+.carousel-inner .carousel-item .img-box{
+	width: 135px;
+	height: 135px;
+}
+
+.carousel-control-prev{
+	left:-100px;
+}
+
+.carousel-control-next{
+	right: -100px
+}
+
+.carousel-indicators{
+	top: 330px;
+}
