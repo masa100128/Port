@@ -75,6 +75,7 @@ figure {
 #colorlib-aside {
   padding-top: 3em;
   padding-bottom: 40px;
+  translate: (-300px); 
   float: left;
   width: 300px;
   position: fixed;
@@ -235,7 +236,7 @@ figure {
 #colorlib-hero {
   min-height: 500px;
   background: #fff url(../images/loader.gif) no-repeat center center;
-  width: 150%;
+  width: 200%;
   float: left;
   margin-bottom: 10em;
   clear: both; }
@@ -386,7 +387,7 @@ body.offcanvas {
   padding-top: 4em;
   padding-bottom: 9em;
   clear: both;
-  width: 100%;
+  width: 140%;
   display: block; }
   @media screen and (max-width: 768px) {
     .colorlib-experience,
@@ -1526,7 +1527,7 @@ body.offcanvas {
 
 #testimonial .container-fluid{
 	padding: 100px;
-	background-color: #C0C0BA
+	background-color: white
 }
 
 /* Carousel */
@@ -1546,4 +1547,8 @@ body.offcanvas {
 
 .carousel-indicators{
 	top: 330px;
+}
+
+.heading1 {
+  padding-bottom: 200px;
 }

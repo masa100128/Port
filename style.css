@@ -328,7 +328,7 @@ html, body {
   content: '';
   background: #C5CAE9;
   width: 5px;
-  height: 95%;
+  height: 97%;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
