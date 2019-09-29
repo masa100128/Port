@@ -242,6 +242,7 @@ figure {
   clear: both; }
   @media screen and (max-width: 768px) {
     #colorlib-hero {
+      /* background-color: #e0e6ef;  */
       width: 100%;
       padding: 0 1em; } }
   #colorlib-hero .flexslider {
@@ -250,13 +251,14 @@ figure {
     margin-bottom: 0; }
     #colorlib-hero .flexslider .slides {
       position: relative;
-      overflow: visible; }
+      overflow: visible; 
+    }
       #colorlib-hero .flexslider .slides li {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: bottom center;
         min-height: 400px;
-        position: relative; }
+        position: relative; }       
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 20px;
       z-index: 1000;
@@ -280,7 +282,12 @@ figure {
           #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
             cursor: pointer;
             background: transparent;
-            border: 2px solid #2c98f0; }
+            border: 2px solid #2c98f0; 
+          }
+          @media screen and (max-width: 768px) {
+            #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
+            background-color: #e0e6ef; 
+       } }
     #colorlib-hero .flexslider .flex-direction-nav {
       display: none; }
     #colorlib-hero .flexslider .slider-text {
@@ -1556,3 +1563,78 @@ body.offcanvas {
 .heading1 {
   padding-bottom: 200px;
 }
+
+.home-bg {
+  /* background-image: url(..images/img_bg_1.jpg); */
+  background-image: url(../images/img_bg_1.gif);
+  /* background-image: red;  */
+}
+@media screen and (max-width: 768px) {
+  .home-bg {
+  background-image: url(../images/img_bg_4.jpg);
+  /* background-image: #e0e6ef; */
+
+} }
+
+.home-bg-1 {
+  /* background-image: url(..images/img_bg_1.jpg); */
+  background-image: url(../images/img_bg_2.gif);
+  /* background-image: red;  */
+}
+@media screen and (max-width: 768px) {
+  .home-bg-1 {
+  background-image: url(../images/img_bg_5.jpg);
+  /* background-image: #e0e6ef; */
+
+} }
+
+
+
+
+
+
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
