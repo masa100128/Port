@@ -457,6 +457,16 @@ html, body {
   background-size: cover;
 }
 
+.timeline-item .timeline-img-header9 {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-15.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.timeline-item .timeline-img-header10 {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-16.jpg") center center no-repeat;
+  background-size: cover;
+}
+
 .timeline-img-header {
   height: 200px;
   position: relative;
@@ -535,6 +545,30 @@ html, body {
   margin-bottom: 20px;
 }
 .timeline-img-header8 h2 {
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 5px;
+  left: 20px;
+}
+
+.timeline-img-header9 {
+  height: 200px;
+  position: relative;
+  margin-bottom: 20px;
+}
+.timeline-img-header9 h2 {
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 5px;
+  left: 20px;
+}
+
+.timeline-img-header10 {
+  height: 200px;
+  position: relative;
+  margin-bottom: 20px;
+}
+.timeline-img-header10 h2 {
   color: #FFFFFF;
   position: absolute;
   bottom: 5px;
