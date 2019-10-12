@@ -457,13 +457,13 @@ html, body {
   background-size: cover;
 }
 
-.timeline-item .timeline-img-header9 {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-15.png") center center no-repeat;
+.timeline-item .timeline-img-header5 {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-08.jpg") center center no-repeat;
   background-size: cover;
 }
 
-.timeline-item .timeline-img-header10 {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-16.png") center center no-repeat;
+.timeline-item .timeline-img-header6 {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-09.jpg") center center no-repeat;
   background-size: cover;
 }
 
@@ -551,24 +551,24 @@ html, body {
   left: 20px;
 }
 
-.timeline-img-header9 {
+.timeline-img-header5 {
   height: 200px;
   position: relative;
   margin-bottom: 20px;
 }
-.timeline-img-header9 h2 {
+.timeline-img-header5 h2 {
   color: #FFFFFF;
   position: absolute;
   bottom: 5px;
   left: 20px;
 }
 
-.timeline-img-header10 {
+.timeline-img-header6 {
   height: 200px;
   position: relative;
   margin-bottom: 20px;
 }
-.timeline-img-header10 h2 {
+.timeline-img-header6 h2 {
   color: #FFFFFF;
   position: absolute;
   bottom: 5px;
