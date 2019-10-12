@@ -448,7 +448,7 @@ html, body {
 }
 
 .timeline-item .timeline-img-header7 {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-7.jpg") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-7.png") center center no-repeat;
   background-size: cover;
 }
 
