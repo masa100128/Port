@@ -457,7 +457,7 @@ html, body {
   background-size: cover;
 }
 
-.timeline-item .timeline-img-header9 {
+/* .timeline-item .timeline-img-header9 {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-8.jpg") center center no-repeat;
   background-size: cover;
 }
@@ -465,7 +465,7 @@ html, body {
 .timeline-item .timeline-img-header10 {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-9.jpg") center center no-repeat;
   background-size: cover;
-}
+} */
 
 .timeline-img-header {
   height: 200px;
@@ -551,7 +551,7 @@ html, body {
   left: 20px;
 }
 
-.timeline-img-header9 {
+/* .timeline-img-header9 {
   height: 200px;
   position: relative;
   margin-bottom: 20px;
@@ -573,7 +573,7 @@ html, body {
   position: absolute;
   bottom: 5px;
   left: 20px;
-}
+} */
 
 
 blockquote {
