@@ -1602,7 +1602,8 @@ img.animated-gif{
 
 .home-bg-1 {
   /* background-image: url(..images/img_bg_1.jpg); */
-  background-image: url(../images/img_bg_2.gif);
+  
+  background-image: url(../images/img_bg_6.jpg);
   /* background-image: red;  */
 }
 @media screen and (max-width: 768px) {

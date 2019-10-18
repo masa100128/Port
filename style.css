@@ -467,6 +467,16 @@ html, body {
   background-size: cover;
 }
 
+.timeline-item .timeline-img-header11 {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-8.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.timeline-item .timeline-img-header12 {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("images/img-9.jpg") center center no-repeat;
+  background-size: cover;
+}
+
 .timeline-img-header {
   height: 200px;
   position: relative;
@@ -575,6 +585,29 @@ html, body {
   left: 20px;
 }
 
+.timeline-img-header11 {
+  height: 200px;
+  position: relative;
+  margin-bottom: 20px;
+}
+.timeline-img-header11 h2 {
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 5px;
+  left: 20px;
+}
+
+.timeline-img-header12 {
+  height: 200px;
+  position: relative;
+  margin-bottom: 20px;
+}
+.timeline-img-header12 h2 {
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 5px;
+  left: 20px;
+}
 
 blockquote {
   margin-top: 30px;
